@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Evgeny
-- 👀 I’m interested in QA, C#, Web Services, Performance
+- 👀 I’m interested in QA, C#, Web Services, UI, Performance
 - 👀 I am currently working on a load testing utility for C# projects
 
 <!---
