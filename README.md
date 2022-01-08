@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Evgeny
-- 👀 I’m interested in QA, C#
+- 👀 I’m interested in QA, C#, Typescript
 
-Do not use my code :)
+Do not use code. It is experiments :)
 
 <!---
 evgenynazarchuk/evgenynazarchuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
